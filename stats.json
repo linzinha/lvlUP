@@ -1,0 +1,93 @@
+{
+  "points": {
+    "calories eaten": "total calories eaten",
+    "calories burned": "calories burned + bmr",
+    "calorie points": "calories burned - calories eaten",
+    "steps": "1pt per 1000 steps",
+    "exercise": "5pts per 100 calories over BMR",
+    "meditation": "3pts",
+    "reading": "2pts",
+    "studying": "3pts",
+    "teeth": "1 2 or 3 pts",
+    "face": "1 2 or 3 pts",
+    "shower": "3pts",
+    "cleaning": "3pts",
+    "dishes": "+1 bonus",
+    "cooking": "1, 2 or 5 pts",
+    "errands": "1, 2, 4, 5, 10 pts"
+  },
+  "player1": {
+    "id": 1,
+    "name": "Lindsey",
+    "point values week": {
+      "calorie points": 0,
+      "steps": 0,
+      "exercise": 0,
+      "meditation": 0,
+      "reading": 0,
+      "studying": 0,
+      "teeth": 0,
+      "face": 0,
+      "shower": 0,
+      "cleaning": 0,
+      "cooking": 0,
+      "errands": 0
+    },
+    "point values month": {
+     "calorie points": 0,
+      "steps": 0,
+      "exercise": 0,
+      "meditation": 0,
+      "reading": 0,
+      "studying": 0,
+      "teeth": 0,
+      "face": 0,
+      "shower": 0,
+      "cleaning": 0,
+      "cooking": 0,
+      "errands": 0
+    },
+    "totals": {
+      "total day": 0,
+      "total week": 76,
+      "total month": 76
+    }
+  },
+  "player2": {
+    "id": 2,
+    "name": "Pedro",
+    "point value week": {
+     "calorie points": 0,
+      "steps": 0,
+      "exercise": 0,
+      "meditation": 0,
+      "reading": 0,
+      "studying": 0,
+      "teeth": 0,
+      "face": 0,
+      "shower": 0,
+      "cleaning": 0,
+      "cooking": 0,
+      "errands": 0
+    },
+    "point values month": {
+      "calorie points": 0,
+      "steps": 0,
+      "exercise": 0,
+      "meditation": 0,
+      "reading": 0,
+      "studying": 0,
+      "teeth": 0,
+      "face": 0,
+      "shower": 0,
+      "cleaning": 0,
+      "cooking": 0,
+      "errands": 0
+    },
+    "totals": {
+      "total day": 0,
+      "total week": 0,
+      "total month": 0
+    }
+  }
+}
