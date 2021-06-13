@@ -52,7 +52,7 @@ def addPointsP2():
     # Title
     root.title("Lvl^: Calculate")
 
-    addPGreeting = tk.Label(text="Add Points for Player Two:", bg="mediumturquoise", fg="black", font="10", width=50, pady=20)
+    addPGreeting = tk.Label(text="Add Points for Pedro:", bg="mediumturquoise", fg="black", font="10", width=50, pady=20)
     addPGreeting.grid(row=0, columnspan=4, sticky=EW)
 
     def changeWindow():
